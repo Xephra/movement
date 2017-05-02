@@ -1,2 +1,2 @@
-# movement
-movement project
+# Actionscript Movement
+GD_movement game in AS3.
